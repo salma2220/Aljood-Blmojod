@@ -1,8 +1,8 @@
-﻿# JoodBlmojood
+# JoodBlmojood
 
 A web-based cooking platform that helps users discover recipes based on available ingredients.
 
-## Features
+Features
 
 - Browse and search recipes
 - Search by ingredients
@@ -10,7 +10,7 @@ A web-based cooking platform that helps users discover recipes based on availabl
 - User registration and login
 - Rate recipes
 
-## Technologies
+Technologies
 
 - HTML
 - CSS
@@ -18,16 +18,16 @@ A web-based cooking platform that helps users discover recipes based on availabl
 - PHP
 - MySQL
 
-## Screenshots
+Screenshots
 
-### Homepage
+Homepage
 
-![Homepage](homepage.png)
+![Homepage](s1.png)
 
-### Recipe Search
+Recipe Search
 
-![Recipe Search](recipes.png)
+![Recipe Search](s2.png)
 
-### Add New Recipe
+Add New Recipe
 
-![Add New Recipe](add-recipe.png)
+![Add New Recipe](s3.png)
