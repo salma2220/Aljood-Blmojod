@@ -17,3 +17,17 @@ A web-based cooking platform that helps users discover recipes based on availabl
 - JavaScript
 - PHP
 - MySQL
+
+## Screenshots
+
+### Homepage
+
+![Homepage](homepage.png)
+
+### Recipe Search
+
+![Recipe Search](recipes.png)
+
+### Add New Recipe
+
+![Add New Recipe](add-recipe.png)
